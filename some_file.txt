@@ -1,0 +1,1 @@
+Some text inside of some file. Just a test.
